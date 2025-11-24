@@ -1,0 +1,10 @@
+streamlit
+google-cloud-aiplatform
+google-cloud-firestore
+google-cloud-storage
+google-cloud-secret-manager
+google-cloud-logging
+google-api-python-client
+google-auth
+fpdf
+pandas
